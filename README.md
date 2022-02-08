@@ -4,3 +4,6 @@
 
 ## Current Features :
 * Mod is working
+
+## Further information
+See changelog for versions updates and details about the current version.
