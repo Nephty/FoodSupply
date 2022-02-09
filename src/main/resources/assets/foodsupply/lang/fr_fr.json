@@ -1,0 +1,18 @@
+{
+  "item.foodsupply.banana": "Banane",
+  "item.foodsupply.strawberry": "Fraise",
+  "item.foodsupply.pear": "Poire",
+  "item.foodsupply.orange": "Orange",
+  "item.foodsupply.apricot": "Abricot",
+  "item.foodsupply.lemon": "Citron",
+  "item.foodsupply.cherry": "Cerise",
+  "item.foodsupply.grapes": "Raisins",
+  "item.foodsupply.peach": "Pêche",
+  "item.foodsupply.pineapple": "Ananas",
+  "item.foodsupply.pineapple_slice": "Tranche d'ananas",
+  "item.foodsupply.mango": "Mangue",
+  "item.foodsupply.cantaloupe": "Melon",
+  "item.foodsupply.cantaloupe_slice": "Tranche de melon",
+  "item.foodsupply.coconut": "Noix de coco",
+  "item.foodsupply.tomato": "Tomate"
+}
